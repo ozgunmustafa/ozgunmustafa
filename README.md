@@ -1,12 +1,5 @@
-<!-- https://github.com/ShahriarShafin/ -->
-<!-- April 15, 2021 -->
-<!-- leave a STAR, if you like it ! -->
 
-<!-- Profile Views Counter -->
-
-<!-- Intro  -->
-
-<br><br>
+<br>
 
 <h3 align="center">
         <samp>&gt; Hello!, I am
@@ -44,8 +37,8 @@
         </samp>
         <!-- Programming Languages -->
         <img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white">
-         <a href=https://www.behance.net/ozgunmustafa" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=Behance&logoColor=white"></a>
-         <a href=https://www.dribbble.com/ozgunmustafa" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white"></a>
+         <a href="https://www.behance.net/ozgunmustafa" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=Behance&logoColor=white"></a>
+         <a href="https://www.dribbble.com/ozgunmustafa" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white"></a>
         <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001D34?style=flat-square&logo=Photoshop&logoColor=2FA3F7">
         <br><br><br>
                <b>「 Contact 」</b> 
