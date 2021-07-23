@@ -64,7 +64,7 @@
                 <br><br>
         </samp>
         <!-- Programming Languages -->
-        <a href="https://cv.ozgunmustafa.com/" target="_blank"><img alt="Gmail"
+        <a href="https://cv.ozgunmustafa.com/works" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/Click%20for%20Visit%20My%20Portfolio-008090">
         </a>
 
