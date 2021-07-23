@@ -1,4 +1,3 @@
-
 <br>
 
 <h3 align="center">
@@ -23,14 +22,14 @@
                 <br>
         </samp>
         <!-- Programming Languages -->
-        <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
-        <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-        <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-        <img alt="Sass" src="https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=Sass&logoColor=white">
-        <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-        <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black">
-        <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
-        <br><br><br>
+        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
+        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
+        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=Sass&logoColor=white"></a>
+        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
+        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black"></a>
+        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"></a>
+<br><br><br>
         <samp>
                <b>「 UI, UX, Design 」</b> 
                 <br><br>
@@ -39,7 +38,7 @@
         <img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white">
          <a href="https://www.behance.net/ozgunmustafa" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=Behance&logoColor=white"></a>
          <a href="https://www.dribbble.com/ozgunmustafa" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white"></a>
-        <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001D34?style=flat-square&logo=Photoshop&logoColor=2FA3F7">
+         <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001D34?style=flat-square&logo=Photoshop&logoColor=2FA3F7"></a>
         <br><br><br>
                <b>「 Contact 」</b> 
                 <br><br>
