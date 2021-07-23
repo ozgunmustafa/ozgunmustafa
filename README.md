@@ -52,7 +52,7 @@
         </a>
         <!-- Instagram -->
         <a href="https://www.instagram.com/ozzgunmustafa/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+                src="https://img.shields.io/badge/-ozzgunmustafa-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/ozgunmustafa/" target="_blank"><img alt="Linkedin"
