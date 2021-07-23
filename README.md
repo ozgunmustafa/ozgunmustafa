@@ -48,7 +48,7 @@
                 src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white">
         </a>
         <a href="mailto:ozzgunmustafa@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+                src="https://img.shields.io/badge/-ozzgunmsutafa@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Instagram -->
         <a href="https://www.instagram.com/ozzgunmustafa/" target="_blank"><img alt="Instagram"
