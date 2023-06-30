@@ -1,4 +1,4 @@
-![](https://giphy.com/gifs/BrainpullMarketing-marketing-ux-brainpull-38pRVNXDlIafsG1c4f)
+![](https://media4.giphy.com/media/38pRVNXDlIafsG1c4f/giphy.gif)
 =====================================================================================================================================
 
 Frontend Developer and UI Designer
