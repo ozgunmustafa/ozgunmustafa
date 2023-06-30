@@ -1,89 +1,40 @@
-<br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustafa Özgün
+=====================================================================================================================================
 
-<h3 align="center">
-        <samp>&gt; Hello!, I am
-                <b><a target="_blank" href="https://ozgunmustafa.com/">Mustafa Özgün</a></b>
-        </samp>
-</h3>
-<br>
+Frontend Developer and UI Designer
+----------------------------------
 
-<p align="center">
-        <!-- Organisation  -->
-        <samp>
-                「 From Izmir, Turkey 」
-                <br>
-                「 Frontend Developer, Blogger 」
-                <br>
-                <br>
-        </samp>
-         <samp>
-               <b>「 Development 」</b>
-                <br>
-                <br>
-        </samp>
-        <!-- Programming Languages -->
-        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
-        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=Sass&logoColor=white"></a>
-        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
-        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black"></a>
-        <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"></a>
-<br><br><br>
-        <samp>
-               <b>「 UI, UX, Design 」</b> 
-                <br><br>
-        </samp>
-        <!-- Programming Languages -->
-        <img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white">
-         <a href="https://www.behance.net/ozgunmustafa" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=Behance&logoColor=white"></a>
-         <a href="https://www.dribbble.com/ozgunmustafa" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white"></a>
-         <a href="https://github.com/ozgunmustafa?tab=repositories" target="_blank"><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001D34?style=flat-square&logo=Photoshop&logoColor=2FA3F7"></a>
-        <br><br><br>
-               <b>「 Contact 」</b> 
-                <br><br>
-        </samp>
-        <!-- Programming Languages -->
-        <a href="https://wa.me/905073861125?text=Hello" target="_blank"><img alt="Whatsapp"
-                src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white">
-        </a>
-        <a href="mailto:ozzgunmustafa@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-ozzgunmsutafa@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Instagram -->
-        <a href="https://www.instagram.com/ozzgunmustafa/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-ozzgunmustafa-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/ozgunmustafa/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-        <br><br><br>
-               <b>「 Portfolio 」</b> 
-                <br><br>
-        </samp>
-        <!-- Programming Languages -->
-        <a href="https://cv.ozgunmustafa.com/works" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/Click%20for%20Visit%20My%20Portfolio-008090">
-        </a>
+As a professional who closely follows the developments in the sector, focuses on user experience and has a good command of modern web technologies, I have a strong skill set to develop frontend projects. I have a deep knowledge of HTML, CSS and JavaScript and I am also experienced in developing projects using popular frontend frameworks and libraries (React and Vue.js). I attached great importance to creating user-friendly interfaces and improving them in my work. I carried out these works, such as continuous testing and optimizing their performance, taking into account performance tests and user feedback. Here is my journey as developer👇 cv.ozgunmustafa.com
 
+* 🌍  I'm based in Turkey
+* 🖥️  See my portfolio at [cv.ozgunmustafa.com](http://cv.ozgunmustafa.com )
+* ✉️  You can contact me at [mozgun.dev@gmail.com](mailto:mozgun.dev@gmail.com)
+* 🚀  I'm currently working on [Terappin](http://terappin.com)
+* 🧠  I'm learning NextJS, NodeJS
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-<!-- Details Section-->
-<details align="center">
-    <summary> <samp>&#9776; Read More</samp></summary>
-    <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgunmustafa&theme=default"style="display:block" />
-        <br>
-    </p>
-</details>
-<br>
+### Socials
 
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        👨‍💻
-    </p>
-</samp>
+<p align="left"> <a href="https://www.behance.com/ozgunmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/ozgunmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/ozgunmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/ozgunmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ozgunmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@mustafozgun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+### Badges
+
+<a href="https://github.com/ozgunmustafa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgunmustafa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
